@@ -20,7 +20,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    To know how you've changed the code since you last got it. You can also fetch
+	and merge any new commits with yours.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
