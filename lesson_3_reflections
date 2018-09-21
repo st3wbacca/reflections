@@ -32,4 +32,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you wanted to add features, but still let others collaborate with you.
+	This would allow others to make changes too while not interfering with each other.
